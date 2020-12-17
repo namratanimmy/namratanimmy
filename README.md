@@ -1,7 +1,8 @@
 # NAMRATA GIDUTURI
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hi there 👋
-**linkedin**-[Gidutur Nmarata](https://www.linkedin.com/in/giduturi-namrata-0898991b1/)
+**linkedin**-[Giduturi Namarata](https://www.linkedin.com/in/giduturi-namrata-0898991b1/)
+
 i am Giduturi Namrata.My main intrest lies in python & machine learning,java,C++.also i have basic knowledge in HTML&CSS.iam always curious to learn something new
 
 - 🔭 I’m currently working on python & Machine learning projects
