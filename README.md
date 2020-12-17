@@ -10,7 +10,7 @@ i am Giduturi Namrata.My main intrest lies in python & machine learning,java,C++
 - 👯 I’m looking to collaborate on ML,python projects
 - 🤔 I’m looking for help with internships
 - 💬 Ask me about java,python,ML,c++,c
-- 📫 How to reach me:Mail Id-namratanimmy123@gmail.com
+- 📫 How to reach me:Mail Id - namratanimmy123@gmail.com
 - 😄 Pronouns:you can give one
 - ⚡ Fun fact:i can't live without food
 <!--
