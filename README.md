@@ -1,15 +1,6 @@
 # NAMRATA GIDUTURI
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1 align="center">Hi 👋, I'm NAMRATA GIDUTURI</h1>
-<h3 align="center">I am Giduturi Namrata. I am a fond of programming languages such as C,C++,JAVA,PYTHON.What I am interested towards in ML AND PYTHON.Looking forward for opportunities and start building my career.</h3>
 
-- 🔭 I’m currently working on **Machine learning and python projects.**
-
-- 🌱 I’m currently learning **machine learning and competitive coding**
-
-- 🤝 I’m looking for help with **internships**
-
-- 💬 Ask me about **ML and python**
 
 - 📫 How to reach me **namratanimmy123@gmail.com**
 
